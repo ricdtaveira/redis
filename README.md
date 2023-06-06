@@ -1,5 +1,6 @@
 # Redis #
->O Redis é um sistema de armazenamento em cache de alto desempenho e um banco de dados em memória que é amplamente utilizado para acelerar o desempenho de aplicativos que dependem de acesso rápido a dados.
+>
+O Redis é um sistema de armazenamento em cache de alto desempenho e um banco de dados em memória que é amplamente utilizado para acelerar o desempenho de aplicativos que dependem de acesso rápido a dados.
 >
 > 
 Ele funciona como um banco de dados chave-valor, onde os dados são armazenados na memória principal do sistema para acesso rápido.
@@ -23,8 +24,15 @@ Eis alguns conceitos-chave e recursos do Redis:
 1. Persistência: Além do armazenamento em memória, o Redis também suporta persistência de dados em disco. Isso permite que você salve os dados em disco periodicamente ou em resposta a eventos específicos, garantindo a durabilidade dos dados mesmo em caso de falhas.
 
 1. Escalabilidade: O Redis suporta a criação de clusters distribuídos, permitindo a escalabilidade horizontal. Isso significa que você pode adicionar mais nós ao cluster para aumentar a capacidade de armazenamento e processamento, mantendo a alta disponibilidade e o desempenho.
-
-Em resumo, o Redis é um sistema de armazenamento em cache e banco de dados em memória que oferece alto desempenho, flexibilidade e uma variedade de recursos para atender a diversas necessidades de aplicativos. Sua capacidade de armazenar dados em memória e fornecer acesso rápido faz dele uma escolha popular para melhorar o desempenho de aplicativos e implementar recursos como caching, pub/sub e muito mais.
+>
+>
+Em resumo, o Redis é um sistema de armazenamento em cache e banco de dados em memória 
+que oferece alto desempenho, flexibilidade e uma variedade de recursos para atender 
+a diversas necessidades de aplicativos. 
+>
+Sua capacidade de armazenar dados em memória e fornecer acesso rápido faz dele 
+uma escolha popular para melhorar o desempenho de aplicativos e implementar 
+recursos como caching, pub/sub e muito mais.
 >
 
 
