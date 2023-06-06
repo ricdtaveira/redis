@@ -5,9 +5,8 @@ Principais Links sobre Redis:
 >
 > 
 1. Redis 
->
 https://redis.io/
->
+
 1. Arquitetura assíncrona PubSub com Redis e Node.js
 https://www.luiztools.com.br/post/arquitetura-assincrona-pubsub-com-redis-nodejs/
 
