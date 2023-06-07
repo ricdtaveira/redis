@@ -1,7 +1,29 @@
 # Projetos Redis com Python #
 
 ## Introdução ##
+>
+ O Redis é mais fácil de usar com o Python se você tiver um cliente de biblioteca de 
+ código que faça a ponte entre seu código e sua instância do Redis. 
+>
+ 
+>
+ As bibliotecas e recursos a seguir fornecem mais informações sobre como lidar com dados 
+ em uma instância do Redis com seu código Python.
+>
+1. Redis-py (https://charlesleifer.com/blog/redis-streams-with-python/) é um cliente Python sólido para usar com o Redis.
 
+1. Walrus (https://charlesleifer.com/blog/walrus-lightweight-python-utilities-for-working-with-redis/) é um wrapper Python de alto nível para Redis com alguns componentes de armazenamento em cache, consulta e estrutura de dados incorporados à biblioteca.
+
+1. Escrever Redis em Python com Asyncio (http://jamesls.com/writing-redis-in-python-with-asyncio-part-1.html) mostra um exemplo detalhado de como usar a nova biblioteca padrão Asyncio no Python 3.4+ para trabalhar com Redis. Há também um vídeo EuroPython da palestra que acompanha o código.
+
+1. Cache_deco(https://github.com/alexk307/cache_deco ) é uma biblioteca de decoração de cache Python genérica.
+
+1. Escreva seu próprio Redis(https://charlesleifer.com/blog/building-a-simple-redis-server-with-python/) em miniatura com Python na verdade não usa Redis, mas mostra 
+como você pode escrever uma versão simplificada do armazenamento de dados na memória do 
+Redis com Python. É um bom artigo para entender mais sobre como os armazenamentos de dados NoSQL podem funcionar nos bastidores.
+
+1. A introdução aos fluxos Redis com Python (https://charlesleifer.com/blog/redis-streams-with-python/) mostra como usar a nova funcionalidade (a partir do Redis 
+>
 
 ## Links ##
 >
