@@ -36,4 +36,7 @@ Principais Links sobre Redis:
 
 1. RedisInsight 
  https://github.com/RedisInsight/RedisInsight
+
+1.  Redis Enterprise and Rust
+https://redis.com/lp/redis-enterprise-rust/
 >
